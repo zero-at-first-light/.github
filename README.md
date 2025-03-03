@@ -1,2 +1,1 @@
-# .github
-Zero @ First Light
+# Zero @ First Light
